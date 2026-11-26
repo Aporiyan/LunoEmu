@@ -3,7 +3,7 @@
     "Author": "Luno",
     "Name": "Luno Emu",
     "InternalName": "LunoEmu",
-    "AssemblyVersion": "1.5.3.0",
+    "AssemblyVersion": "1.5.4.0",
     "Description": "轻量多平台模拟器。按需安装核心，在游戏内浏览、运行与保存自己的本地游戏。",
     "Punchline": "把你的复古游戏库带进艾欧泽亚。",
     "ApplicableVersion": "any",
@@ -17,9 +17,9 @@
       "games"
     ],
     "RepoUrl": "https://github.com/Aporiyan/LunoEmu",
-    "DownloadLinkInstall": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.3/LunoEmu.zip",
-    "DownloadLinkUpdate": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.3/LunoEmu.zip",
-    "DownloadLinkTesting": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.3/LunoEmu.zip",
-    "LastUpdate": 1795626206
+    "DownloadLinkInstall": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.4/LunoEmu.zip",
+    "DownloadLinkUpdate": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.4/LunoEmu.zip",
+    "DownloadLinkTesting": "https://github.com/Aporiyan/LunoEmu/releases/download/v1.5.4/LunoEmu.zip",
+    "LastUpdate": 1795662337
   }
 ]

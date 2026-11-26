@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/Aporiyan/LunoEmu/main/repo.json
 | [DeSmuME](https://github.com/libretro/desmume) | [GPL-2.0](licenses/desmume.txt) |
 | [paraLLEl N64](https://github.com/libretro/parallel-n64) | [GPL-2.0 及组件许可](licenses/parallel_n64.txt) |
 | [PPSSPP](https://github.com/hrydgard/ppsspp) | [GPL-2.0-or-later 及组件许可](licenses/ppsspp.txt) |
+| [OpenBIOS](https://github.com/libretro/beetle-psx-libretro/tree/fb70b69a1aef1f60d9fc139ab7df34a5742ccdfd/deps/openbios) | [MIT](licenses/openbios.txt) |
